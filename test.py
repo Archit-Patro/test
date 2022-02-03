@@ -1,2 +1,2 @@
-L = list (map(ord,'spam'))
+L = list (map(ord,"'m'lady"))
 print(L)
